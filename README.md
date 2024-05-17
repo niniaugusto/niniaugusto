@@ -1,6 +1,11 @@
 ### Jesus is King
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niniaugusto&theme=midnight-purple&show_icons=true"/>
+</div>
+
+  ##
+  
+<div>
   <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&title_color=9400D3&text_color=FFFFFF&bg_color=000000&pie_color=800080&border_color=9400D3"/>
 </div>
 <div style="display: inline_block"><br>

@@ -6,7 +6,7 @@
   ##
   
 <div>
-  <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&title_color=9400D3&text_color=FFFFFF&bg_color=000000&pie_color=800080&border_color=FFFFFF"/>
+  <img height="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niniaugusto&layout=pie&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
